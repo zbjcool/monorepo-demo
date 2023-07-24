@@ -1,0 +1,13 @@
+{
+  "name": "@app/project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build:test": "vite build --mode test",
+    "build:prod": "vite build"
+  },
+  "author": "",
+  "license": "ISC"
+}
